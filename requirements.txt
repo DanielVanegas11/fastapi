@@ -1,3 +1,5 @@
 fastapi
 pandas
 joblib
+uvicorn
+#uvicorn main:app --reload
